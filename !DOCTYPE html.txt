@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lagarto permo</title>
+</head>
+<body>
+    <h1>Bienvenidos a mi primera página web</h1>
+    <h2>Un poco acerca de mi</h2> 
+    <p> esta página es prohibida; solo pueden acceder aquellos que se hagan como niños </p>
+
+    <h2>Mis pasatiempos y gustos</h2>
+    <ul> 
+        <li type="square"> Escuchar música</li>
+        <li type= "disc">Tocar piano</li>
+        <li type="circle">Leer</li>
+    </ul> 
+    
+    <h2>Mis metas</h2>
+    <ol>
+        <li>Aprender a programar de manera básica o compleja (si se puede)</li>
+        <li>Aprender de todo lo que pueda</li>
+        <li>ser exitoso</li>  
+    </ol>
+    <h2>Contacto</h2>
+    <p>Puedes encontrarme en <a href="https://Lagartopersam.com">mi página personal</a>.</p>
+    <h2>Una imágen</h2>
+    <img src="https://yamaha.vtexassets.com/assets/vtex.file-manager-graphql/images/3c1b2f50-c5bc-44a0-8a0a-89db5946ea06___796d73cb5103934861f46fc02d862f81.jpg" alt="Este es un piano de cola. se calsifica como un instrumento de cuerda, y al mismo tiempo, un instrumento de percusión">
+    
+<dl>
+    <DT>Carro</DT>
+    <dd>es una maquina que...</dd>
+    <dt>Helado</dt>
+    <dd>crema fría de fruta</dd>
+    
+</dl>   
+
+  <table border="2" width="25%" align= "center"> 
+<center><h1>Ejemplo de tablas</h1></center>
+    <tr>
+    <td>menos</td>
+    <th>A</th>
+    <th>B</th>
+    <td width="20%"><a href="https://dle.rae.es/agua"><img src="definicion-del-agua-saguapac.jpg" alt="El agua no moja, se adhiere"></a></td>
+    </tr>
+<tr>
+    <th>1</th>
+    <td>A1</td>
+    <td>B1</td>
+    <th>Agua</th>
+</tr>
+</table>
+</body>
+</html>

@@ -1,0 +1,47 @@
+ body {
+            font: Arial, sans serif;
+            background-color: aqua;
+            margin: 2%;
+            padding: 60 px;
+        }
+        .container {
+            max-width: 45%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: aquamarine;
+            border-radius: 50px;
+            box-shadow: 10px rgb(red, green, blue)
+        }
+        h1 {
+            text-align: center;
+            color: rgb(12, 12, 1);
+            
+        }
+        label{
+            display: block;
+            margin: 10px 0 5px;
+            font-weight: bold;    
+        }
+        input{
+            border-width: 2px;
+        }
+
+        input, textarea, select{
+            border-width: 2x;
+            width: 98% ;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-radius: 0;
+            
+        }
+
+        input[type="submit"] {
+            background-color: brown;
+            color: blanchedalmond;
+            border: none;
+            cursor: pointer;
+           
+        }
+        input[type="submit"]:hover {  
+            background-color: antiquewhite;
+        }
